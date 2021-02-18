@@ -1,4 +1,4 @@
-This is my CV. It's responsive to any devise
+###This is my CV. It's responsive to any devise. Consist of four pages that are accessed from different routes.
 ![1](https://user-images.githubusercontent.com/75522192/108371817-56799900-7228-11eb-97a9-4097a10ff227.png)
 ![2](https://user-images.githubusercontent.com/75522192/108374099-c852e200-722a-11eb-9a01-12aef059ac7a.png)
 ![3](https://user-images.githubusercontent.com/75522192/108374115-cc7eff80-722a-11eb-8491-7842de3a7523.png)
