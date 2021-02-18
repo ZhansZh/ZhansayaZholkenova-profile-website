@@ -1,2 +1,2 @@
-#### This is my CV. It's responsive to any devise
-![alt-текст](C:\Users\Lenovo\Desktop\Readme\1.png)
+###This is my CV. It's responsive to any devise. Consists of four pages that are accessed from different routes.
+![1](https://user-images.githubusercontent.com/75522192/108371817-56799900-7228-11eb-97a9-4097a10ff227.png)
