@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 This is my CV. It's responsive to any devise. Consists of four pages that are accessed from different routes.
 ![1](https://user-images.githubusercontent.com/75522192/108371817-56799900-7228-11eb-97a9-4097a10ff227.png)
 ![2](https://user-images.githubusercontent.com/75522192/108374099-c852e200-722a-11eb-9a01-12aef059ac7a.png)
@@ -10,4 +8,4 @@ This is my CV. It's responsive to any devise. Consists of four pages that are ac
 ![last](https://user-images.githubusercontent.com/75522192/108374156-da348500-722a-11eb-968f-0843a6b9e3db.png)
 ![Скриншот 2021-02-18 20 23 56](https://user-images.githubusercontent.com/75522192/108374969-b7ef3700-722b-11eb-8430-493e20725726.png)
 ![Скриншот 2021-02-18 20 23 04](https://user-images.githubusercontent.com/75522192/108374985-baea2780-722b-11eb-8323-499ebd52049f.png)
->>>>>>> 2a250d7c16d9e9038f8590b21f6a1aef2614ccc1
+
