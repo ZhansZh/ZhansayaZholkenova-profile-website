@@ -14,5 +14,7 @@
 	Contact page
 ![last](https://user-images.githubusercontent.com/75522192/108374156-da348500-722a-11eb-968f-0843a6b9e3db.png)
 ![Скриншот 2021-02-18 20 23 56](https://user-images.githubusercontent.com/75522192/108374969-b7ef3700-722b-11eb-8430-493e20725726.png)
+
+Mobile version
 ![Скриншот 2021-02-18 20 23 04](https://user-images.githubusercontent.com/75522192/108374985-baea2780-722b-11eb-8323-499ebd52049f.png)
 
