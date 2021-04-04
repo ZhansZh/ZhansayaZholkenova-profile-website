@@ -5,6 +5,7 @@ use Illuminate\Support\Facades\DB;
 use App\Models\Post;
 
 use App\Http\Controllers\BlogController;
+use App\Http\Controllers\UploadController;
 
 /*
 |--------------------------------------------------------------------------
@@ -61,3 +62,6 @@ Route::post('blog/create', [BlogController::class, 'store'])->name('add-post');
 
 
 Route::get('post/{id}', [BlogController::class, 'get_post']);
+
+Route::view('upload', 'upload');
+Route::post('upload',[UploadController::class,'index']);
