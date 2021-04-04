@@ -6,6 +6,8 @@ use App\Models\Post;
 
 use App\Http\Controllers\BlogController;
 use App\Http\Controllers\UploadController;
+use App\Http\Controllers\MailController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -65,3 +67,5 @@ Route::get('post/{id}', [BlogController::class, 'get_post']);
 
 Route::view('upload', 'upload');
 Route::post('upload',[UploadController::class,'index']);
+
+Route::get('mail/send', [MailController::class,'send']);
