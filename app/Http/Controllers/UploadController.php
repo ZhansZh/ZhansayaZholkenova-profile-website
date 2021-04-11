@@ -21,6 +21,7 @@ class UploadController extends Controller
              'surname'=>$request->surname,
              'email'=>$request->email
              ]);
+           
              return $request->file('photos')->store('docs');
        }   
 

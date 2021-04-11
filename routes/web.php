@@ -7,6 +7,7 @@ use App\Models\Post;
 use App\Http\Controllers\BlogController;
 use App\Http\Controllers\UploadController;
 use App\Http\Controllers\MailController;
+use App\Http\Controllers\LocalizationController;
 
 
 /*
@@ -69,3 +70,15 @@ Route::view('upload', 'upload');
 Route::post('upload',[UploadController::class,'index']);
 
 Route::get('mail/send', [MailController::class,'send']);
+
+Route::get('/index/{lang}', function ($lang) {
+    App::setlocale($lang);
+    return view('index');
+}) ;
+
+Route::get('/{lang}', [LocalizationController::class,'index']);
+
+
+
+
+
