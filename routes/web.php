@@ -8,6 +8,9 @@ use App\Http\Controllers\BlogController;
 use App\Http\Controllers\UploadController;
 use App\Http\Controllers\MailController;
 use App\Http\Controllers\LocalizationController;
+use App\Http\Controllers\UplController;
+use App\Http\Controllers\QuestionController;
+
 
 
 /*
@@ -77,6 +80,16 @@ Route::get('/index/{lang}', function ($lang) {
 }) ;
 
 Route::get('/{lang}', [LocalizationController::class,'index']);
+
+
+
+Route::post('/', [UploadController::class, 'index']);
+
+
+
+Route::post('/question', [QuestionController::class, 'index'])->name('student.add');
+
+
 
 
 
